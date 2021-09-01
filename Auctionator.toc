@@ -1,5 +1,5 @@
 ## Interface: 20502
-## Title: Auctionator
+## Title: Auctionator-SolaoUpkeep
 ## Version: @project-version@
 ## Author: Borjamacare, Zirco
 ## X-Website: http://mods.curse.com/addons/wow/auctionator
